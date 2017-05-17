@@ -1,0 +1,93 @@
+[{
+  "id": "0",
+  "name": "肉类海鲜",
+  "SubCategory": [
+    { "id": "01", "name": "进口牛肉", "pic": "http://images.zjlsp.cn/shop_ico/01.png" },
+    { "id": "02", "name": "国产牛肉", "pic": "http://images.zjlsp.cn/shop_ico/02.png" },
+    { "id": "03", "name": "羊肉", "pic": "http://images.zjlsp.cn/shop_ico/03.png"},
+    { "id": "04", "name": "猪肉", "pic": "http://images.zjlsp.cn/shop_ico/04.png"},
+    { "id": "05", "name": "香肠", "pic": "http://images.zjlsp.cn/shop_ico/05.png"},
+    { "id": "06", "name": "火腿/培根", "pic": "http://images.zjlsp.cn/shop_ico/06.png"},
+    { "id": "07", "name": "肉制品", "pic": "http://images.zjlsp.cn/shop_ico/07.png"},
+    { "id": "08", "name": "鸡", "pic": "http://images.zjlsp.cn/shop_ico/08.png"},
+	  { "id": "09", "name": "鸭", "pic": "http://images.zjlsp.cn/shop_ico/09.png"},
+    { "id": "010", "name": "特色禽类", "pic": "http://images.zjlsp.cn/shop_ico/010.png" },
+    { "id": "011", "name": "鱼", "pic": "http://images.zjlsp.cn/shop_ico/011.png"},
+	  { "id": "012", "name": "三文鱼", "pic": "http://images.zjlsp.cn/shop_ico/012.png"},
+    { "id": "013", "name": "虾", "pic": "http://images.zjlsp.cn/shop_ico/013.png"},
+	  { "id": "014", "name": "蟹", "pic": "http://images.zjlsp.cn/shop_ico/014.png"},
+	  { "id": "015", "name": "贝", "pic": "http://images.zjlsp.cn/shop_ico/015.png"},
+    { "id": "016", "name": "鲜活", "pic": "http://images.zjlsp.cn/shop_ico/016.png"},
+    { "id": "017", "name": "海产干货", "pic": "http://images.zjlsp.cn/shop_ico/017.png"},
+	  { "id": "018", "name": "特殊海产", "pic": "http://images.zjlsp.cn/shop_ico/018.png"}
+	]
+},{
+  "id": "1",
+  "name": "蔬菜",
+  "SubCategory": [
+    { "id": "11", "name": "叶菜类", "pic": "http://images.zjlsp.cn/shop_ico/11.png" },
+    { "id": "12", "name": "根茎类", "pic": "http://images.zjlsp.cn/shop_ico/12.png" },
+    { "id": "13", "name": "茄果/瓜果类", "pic": "http://images.zjlsp.cn/shop_ico/13.png" },
+    { "id": "14", "name": "花菜/豆类", "pic": "http://images.zjlsp.cn/shop_ico/14.png" },
+    { "id": "15", "name": "香料", "pic": "http://images.zjlsp.cn/shop_ico/15.png" },
+    { "id": "16", "name": "菌菇", "pic": "http://images.zjlsp.cn/shop_ico/16.png" },
+    { "id": "17", "name": "沙拉菜", "pic": "http://images.zjlsp.cn/shop_ico/17.png" },
+    { "id": "18", "name": "冷冻蔬菜", "pic": "http://images.zjlsp.cn/shop_ico/18.png" },
+    { "id": "19", "name": "豆制品", "pic": "http://images.zjlsp.cn/shop_ico/19.png" },
+    { "id": "110", "name": "葱蒜类", "pic": "http://images.zjlsp.cn/shop_ico/110.png" },
+    { "id": "111", "name": "蔬菜组合", "pic": "http://images.zjlsp.cn/shop_ico/111.png" }
+	]
+},{
+  "id": "2",
+  "name": "进口水果",
+  "SubCategory": [
+	{ "id": "21", "name": "奇异果", "pic": "http://images.zjlsp.cn/shop_ico/21.png" },
+    { "id": "22", "name": "车厘子", "pic": "http://images.zjlsp.cn/shop_ico/22.png"},
+    { "id": "23", "name": "桃", "pic": "http://images.zjlsp.cn/shop_ico/23.png"},
+    { "id": "24", "name": "李", "pic": "http://images.zjlsp.cn/shop_ico/24.png"},
+    { "id": "25", "name": "莓", "pic": "http://images.zjlsp.cn/shop_ico/25.png"},
+    { "id": "26", "name": "牛油果", "pic": "http://images.zjlsp.cn/shop_ico/26.png"},
+    { "id": "27", "name": "提子", "pic": "http://images.zjlsp.cn/shop_ico/27.png"},
+    { "id": "28", "name": "苹果", "pic": "http://images.zjlsp.cn/shop_ico/28.png"},
+    { "id": "29", "name": "梨", "pic": "http://images.zjlsp.cn/shop_ico/29.png"},
+    { "id": "210", "name": "柑桔橙柚", "pic": "http://images.zjlsp.cn/shop_ico/210.png"},
+    { "id": "211", "name": "山竹", "pic": "http://images.zjlsp.cn/shop_ico/211.png"},
+    { "id": "212", "name": "香蕉", "pic": "http://images.zjlsp.cn/shop_ico/212.png"},
+    { "id": "213", "name": "火龙果", "pic": "http://images.zjlsp.cn/shop_ico/213.png"},
+    { "id": "214", "name": "椰子", "pic": "http://images.zjlsp.cn/shop_ico/214.png"},
+	{ "id": "215", "name": "芒果", "pic": "http://images.zjlsp.cn/shop_ico/215.png"},
+	{ "id": "216", "name": "凤梨", "pic": "http://images.zjlsp.cn/shop_ico/216.png"},
+	{ "id": "217", "name": "榴莲", "pic": "http://images.zjlsp.cn/shop_ico/217.png"}
+	]
+},{
+  "id": "3",
+  "name": "国产水果",
+  "SubCategory": [
+	{ "id": "31", "name": "苹果", "pic": "http://images.zjlsp.cn/shop_ico/31.png" },
+    { "id": "32", "name": "梨", "pic": "http://images.zjlsp.cn/shop_ico/32.png"},
+    { "id": "33", "name": "樱桃", "pic": "http://images.zjlsp.cn/shop_ico/33.png"},
+    { "id": "34", "name": "柑桔橙柚", "pic": "http://images.zjlsp.cn/shop_ico/34.png"},
+    { "id": "35", "name": "猕猴桃", "pic": "http://images.zjlsp.cn/shop_ico/35.png"},
+    { "id": "36", "name": "瓜", "pic": "http://images.zjlsp.cn/shop_ico/36.png"},
+    { "id": "37", "name": "葡萄", "pic": "http://images.zjlsp.cn/shop_ico/37.png"},
+    { "id": "38", "name": "桃", "pic": "http://images.zjlsp.cn/shop_ico/38.png"},
+    { "id": "39", "name": "李", "pic": "http://images.zjlsp.cn/shop_ico/39.png"},
+    { "id": "310", "name": "枣", "pic": "http://images.zjlsp.cn/shop_ico/310.png"},
+    { "id": "311", "name": "莓", "pic": "http://images.zjlsp.cn/shop_ico/311.png"},
+    { "id": "312", "name": "芒果", "pic": "http://images.zjlsp.cn/shop_ico/312.png"},
+    { "id": "313", "name": "凤梨", "pic": "http://images.zjlsp.cn/shop_ico/313.png"},
+    { "id": "314", "name": "百香果", "pic": "http://images.zjlsp.cn/shop_ico/314.png"}
+	]
+},{
+  "id": "4",
+  "name": "粮油杂货",
+  "SubCategory": [
+  { "id": "41", "name": "米", "pic": "http://images.zjlsp.cn/shop_ico/41.png" },
+  { "id": "42", "name": "杂粮", "pic": "http://images.zjlsp.cn/shop_ico/42.png" },
+  { "id": "43", "name": "面/面制品", "pic": "http://images.zjlsp.cn/shop_ico/43.png" },
+  { "id": "44", "name": "油", "pic": "http://images.zjlsp.cn/shop_ico/44.png" },
+  { "id": "45", "name": "调味料", "pic": "http://images.zjlsp.cn/shop_ico/45.png" },
+  { "id": "46", "name": "干货", "pic": "http://images.zjlsp.cn/shop_ico/46.png" },
+  { "id": "47", "name": "果干/零食", "pic": "http://images.zjlsp.cn/shop_ico/47.png" }
+	]
+}]
